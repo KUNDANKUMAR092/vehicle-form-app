@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/vehicle-form-app/static/css/main.a6c05089.css",
+    "main.js": "/vehicle-form-app/static/js/main.15fe4e83.js",
+    "static/js/453.0d49b8d1.chunk.js": "/vehicle-form-app/static/js/453.0d49b8d1.chunk.js",
+    "index.html": "/vehicle-form-app/index.html",
+    "main.a6c05089.css.map": "/vehicle-form-app/static/css/main.a6c05089.css.map",
+    "main.15fe4e83.js.map": "/vehicle-form-app/static/js/main.15fe4e83.js.map",
+    "453.0d49b8d1.chunk.js.map": "/vehicle-form-app/static/js/453.0d49b8d1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6c05089.css",
+    "static/js/main.15fe4e83.js"
+  ]
+}
